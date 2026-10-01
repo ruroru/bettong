@@ -1,4 +1,4 @@
-(defproject org.clojars.jj/bettong "0.1.0"
+(defproject org.clojars.jj/bettong "0.1.1-SNAPSHOT"
   :description "A small agent library: give an agent capabilities you define, and it uses them."
   :url "https://github.com/ruroru/bettong"
   :license {:name "Eclipse Public License 2.0"

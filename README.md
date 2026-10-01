@@ -9,7 +9,7 @@ An agent starts with nothing. Every tool comes from a capability you pass in, an
 a capability grants only reading unless you ask for more.
 
 ```clojure
-[org.clojars.jj/bettong "0.1.0-SNAPSHOT"]
+[org.clojars.jj/bettong "0.1.0"]
 ```
 
 ```clojure
